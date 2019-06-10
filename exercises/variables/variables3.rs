@@ -4,8 +4,8 @@
 fn main() {
     let x = 3;
     println!("Number {}", x);
-    x = 5;
-    println!("Number {}", x);
+    let y = 5;
+    println!("Number {}", y);
 }
 
 
